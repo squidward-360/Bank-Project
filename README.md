@@ -1,0 +1,2 @@
+# Bank-Project
+I built a web application with the help of JSP , Servlets and mySql . it is a bank project where i used CRUD operation and Transactions of the users in the bank. In this project I have used java frameworks like JDBC,JSP and Servlets . where for example there is login page which is made on JSP(Java server pages) and added the validations on the login form also made the html pages of forgot password if the user forgets the password and used Model-Controller-View terminology.
